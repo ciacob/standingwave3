@@ -1,2 +1,13 @@
 /.vscode
 /asconfig.json
+
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+*.swf
+*.air
+*.ipa
+*.apk
+.vscode/
+asconfig.json
